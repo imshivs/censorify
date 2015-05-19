@@ -1,4 +1,4 @@
-//Node.js module that implements a simple censor function and exports it for other modules using the package
+// Node.js module that implements a simple censor function and exports it for other modules using the package
 var censoredWords = ["sad", "bad", "mad"];
 var customCensoredWords =[];
 function censor(inStr) {
